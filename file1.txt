@@ -1,2 +1,2 @@
 ////Comment
-file contain instruction for works.
+//file contain instruction for works.
